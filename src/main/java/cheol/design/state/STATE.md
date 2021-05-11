@@ -1,0 +1,1 @@
+[State Design Pattern in Java](https://www.baeldung.com/java-state-design-pattern)
